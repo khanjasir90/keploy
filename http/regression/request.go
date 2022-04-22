@@ -7,7 +7,6 @@ import (
 	"go.keploy.io/server/pkg/models"
 )
 
-// isko protobuf m dalna h 
 
 type TestCaseReq struct {
 	Captured int64               `json:"captured" bson:"captured"`
